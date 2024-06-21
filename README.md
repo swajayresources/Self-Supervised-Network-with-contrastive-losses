@@ -1,4 +1,5 @@
 # Self-Supervised-Network-with-contrastive-lossess
+* This code is a custom implementation of the [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362) paper.
 * This code implements a custom supervised contrastive learning approach and compares it with a traditional fully supervised learning method using the Imagenette dataset.
 
 ## Summary of the Project
